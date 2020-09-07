@@ -4,7 +4,7 @@ version: 1.0
 
 Best practices for writing commits
 
-  It's highly recommend to have a guide with best practices to write commits,
+  It's highly recommended to have a guide with best practices to write commits,
   they should be clear enough and help the team. Commits' messages have three
   parts title, body, footer.
 
