@@ -1,0 +1,8 @@
+log:
+  history and modification:
+    command: "git log -p"
+    definition: it shows the history of commits and also their changes
+  short history:
+    command: "git log --oneline"
+  history of a file:
+    command: "git log -- index.html"

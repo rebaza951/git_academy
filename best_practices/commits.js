@@ -51,6 +51,9 @@ try to not have too much files in one commit, because
 will not be easy to review the code.
 
 
+- make small commits: are easy to check instead of a big one
+- atomic commits: it is just related to a one topic or requirement.
+
 */
 
 
